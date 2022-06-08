@@ -1,2 +1,2 @@
-# hello-world
-My first project on GitHub
+# Significant difference
+A program to calculate significant difference
